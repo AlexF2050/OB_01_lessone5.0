@@ -30,3 +30,4 @@ task_men.add_task("Погулять", "18.10.2024")
 task_men.mark_task_as_completed("Почитать книгу")
 task_men.print_tasks()
 
+
