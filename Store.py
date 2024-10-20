@@ -12,7 +12,7 @@
 
 # ______________________________________________ Конструктор класса Store ______________________________________________
 
-class Store:
+class Store():
     def __init__(self, name_store, address): #конструктор класса Store с аргументами name_store и address
         self.name = name_store #создание атрибута name с аргументом address в конструкторе класса Store
         self.address = address #создание атрибута address с аргументом address в конструкторе класса Store
